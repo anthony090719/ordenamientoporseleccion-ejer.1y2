@@ -21,7 +21,7 @@ public class MetodosDeOrdenamiento {
 	
 	public void imprimir(int a[]) {
 		for (int i = 0; i < a.length; i++) {
-			System.out.println(a[i] + " DPI ");
+			System.out.println(a[i] + " DPI");
 			
 		}
 	}
